@@ -1,6 +1,6 @@
 # Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization
 This repository contains the archive of the code for the "Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization" paper.
-Please see `experiments/deutsch2019` for more details about how to run the models.
+Please see [`experiments/deutsch2019`](https://github.com/CogComp/summary-cloze/tree/master/experiments/deutsch2019) for more details about how to run the models.
 If you use this code, please cite the following paper:
 ```
 @inproceedings{DeutschRo19,
